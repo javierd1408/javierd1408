@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola, soy Javier Durán!</h1>
+<h3 align="center">Desarrollador Web | Analista Junior en Ciberseguridad | Apasionado por la seguridad by design 🔒</h3>
 
-<!--
-**javierd1408/javierd1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 Sobre mí
+💻 Técnico Superior en Informática (en práctica)  
+🚀 Enfocado en proyectos con **FastAPI, Docker, PostgreSQL y OWASP**  
+🔐 Especial interés en **Hardening, Pentesting y Auditoría de sistemas**  
+📊 Autor del proyecto **SIGFTAI** – Sistema Integral de Gestión Financiera con Análisis Inteligente  
+🌐 Portafolio: [javiiiduran.com](https://javiiiduran.com)  
+📫 Contacto: contacto@javiiiduran.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías principales
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
+
+---
+
+### 📈 Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javierd1408&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierd1408&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+---
+
+### 🧩 Repositorios destacados
+- 🧠 [**THREATLOG-DETECTOR**](https://github.com/javierd1408/THREATLOG-DETECTOR): Ciberseguridad + IA para detección de anomalías.  
+- 💼 [**SIGFTAI**](https://github.com/javierd1408/SIGFTAI): Sistema Financiero con auditoría inteligente.  
+- 🌐 [**ALBORTOURS**](https://github.com/javierd1408/ALBORTOURS): Landing page de turismo responsive.  
+
+---
+
+### 🌎 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-andrés-durán-mata-7a208725a)
+[![Portfolio](https://img.shields.io/badge/Portafolio-javiiiduran.com-14a800?logo=vercel&logoColor=white)](https://javiiiduran.com)
+[![GitHub](https://img.shields.io/badge/GitHub-javierd1408-181717?logo=github)](https://github.com/javierd1408)
