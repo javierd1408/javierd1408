@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola, soy Javier Durán!</h1>
-<h3 align="center">Desarrollador Web | Analista Junior en Ciberseguridad | Apasionado por la seguridad by design 🔒</h3>
+<h3 align="center">Desarrollador Web | Fullstack Developer | Analista Junior en Ciberseguridad | Apasionado por la seguridad by design 🔒</h3>
 
 ---
 
@@ -8,6 +8,7 @@
 🚀 Enfocado en proyectos con **FastAPI, Docker, PostgreSQL y OWASP**  
 🔐 Especial interés en **Hardening, Pentesting y Auditoría de sistemas**  
 📊 Autor del proyecto **SIGFTAI** – Sistema Integral de Gestión Financiera y Tributaria con Análisis Automatizado (proyecto de tesis en creacion)
+
 🌐 Portafolio: [javiiiduran.com](https://javiiiduran.com)  
 📫 Contacto: contacto@javiiiduran.com
 
