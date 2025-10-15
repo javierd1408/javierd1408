@@ -7,7 +7,7 @@
 💻 Técnico Superior en Informática (en práctica)  
 🚀 Enfocado en proyectos con **FastAPI, Docker, PostgreSQL y OWASP**  
 🔐 Especial interés en **Hardening, Pentesting y Auditoría de sistemas**  
-📊 Autor del proyecto **SIGFTAI** – Sistema Integral de Gestión Financiera con Análisis Inteligente  
+📊 Autor del proyecto **SIGFTAI** – Sistema Integral de Gestión Financiera y Tributaria con Análisis Automatizado (proyecto de tesis en creacion)
 🌐 Portafolio: [javiiiduran.com](https://javiiiduran.com)  
 📫 Contacto: contacto@javiiiduran.com
 
