@@ -37,8 +37,8 @@
 
 ### 🧩 Repositorios destacados
 - 🧠 [**THREATLOG-DETECTOR**](https://github.com/javierd1408/THREATLOG-DETECTOR): Ciberseguridad + IA para detección de anomalías.  
-- 💼 [**SIGFTAI**](https://github.com/javierd1408/SIGFTAI): Sistema Financiero con auditoría inteligente.  
-- 🌐 [**ALBORTOURS**](https://github.com/javierd1408/ALBORTOURS): Landing page de turismo responsive.  
+- 💼 [**SISTEMA BASADO EN ROLES CON PROTECCION AVANZADA**](https://github.com/javierd1408/SISTEMA-BASADO-EN-ROLES-CON-PROTECCION-AVANZADA
+): Sistema con parametros de proteccion contra hackeos.   
 
 ---
 
